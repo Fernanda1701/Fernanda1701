@@ -3,7 +3,7 @@
 </h1>
 <p align="center">💻 DevGirl 🌸</p>
 
-## 📈 GitHub Status
+## 📈 GitHub Stats
 
 <h6>
 
