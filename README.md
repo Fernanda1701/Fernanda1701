@@ -1,15 +1,16 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">Hello🌎! I'm Fernanda✨</a>
 </h1>
-<p align="center">💻 DevGirl 🌸</p>
+
+<h3 align="center">💻 DevGirl 🌸</h3>
 
 
-<h3 align="center">
+<h4 align="center">
     
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fnasci/)](https://www.linkedin.com/in/fnasci/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fnasci.1701@gmail.com)](mailto:fnasci.1701@gmail.com)
 
-</h3>
+</h4>
     
 ## 📊 GitHub Stats
 
