@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">Hello🌎! I'm Fernanda✨</a>
+    <a href="https://www.linkedin.com/in/fnasci">Hello🌎! I'm Fernanda✨</a>
 </h1>
 
 <h3 align="center">💻 DevGirl 🌸</h3>
