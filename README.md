@@ -14,13 +14,13 @@
     
 ## 📊 GitHub Stats
 
-<h6 align="center">
+<h6>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernanda1701&theme=radical&show_icons=true)
 
 </h6>
 
-<h4 align="center">
+<h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda1701&langs_count=8)](https://github.com/Fernanda1701)
 
