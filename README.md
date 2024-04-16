@@ -2,7 +2,7 @@
     <a href="https://www.linkedin.com/in/fnasci">Hello🌎! I'm Fernanda✨</a>
 </h1>
 
-<h3 align="center">💻 DevGirl 🌸</h3>
+<h3 align="center">💻 ITGirl 🌸</h3>
 
 
 <h4 align="center">
